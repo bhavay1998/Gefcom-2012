@@ -1,7 +1,5 @@
 # Gefcom-2012
-
-## Topic
-`Statistical Forecasting Under Demand Uncertainty`
+`Topic:` Statistical Forecasting Under Demand Uncertainty
 
 ## Published Submissions
 - [Thesis Report](Master's%20Thesis%20-%20Bhavay%20Singhal.pdf)
