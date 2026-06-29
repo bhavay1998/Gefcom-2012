@@ -1,6 +1,8 @@
 # Gefcom-2012
 `Topic:` Statistical Forecasting Under Demand Uncertainty
 
+- [Publication Repository - Qucosa](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-1016244)
+
 ## Published Submissions
 - [Thesis Report](Master's%20Thesis%20-%20Bhavay%20Singhal.pdf)
 - [Presentation - Overview](Thesis%20Presentation%20-%20Project%20Overview.pptx)
