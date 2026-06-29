@@ -1,5 +1,13 @@
 # Gefcom-2012
-## About the Load Forecasting Competition (Kaggle)
+
+## Topic
+`Statistical Forecasting Under Demand Uncertainty`
+
+## Published Submissions
+- [Thesis Report]()
+- [Presentation - Overview]
+
+## About
 
 This repository holds my master's thesis work that evaluates applied time series methods for short-term load forecasting in electric power systems, using the GEFCom2012 load forecasting dataset. Motivated by the critical role of accurate load forecasting in maintaining grid stability, optimizing resource allocation, and supporting essential infrastructure reliant on reliable electricity, the study addresses challenges in high-frequency load data under realistic constraints like limited training periods and data scarcity. The primary objective is to compare classical time series models—such as exponential smoothing, harmonic regression, piecewise linear regression, seasonal ARIMA (SARIMA), and SARIMA with exogenous variables (SARIMAX)—against naïve baseline and competition benchmark to identify efficient approaches that achieve at least 30% error reduction relative to competition's benchmark, while emphasizing model simplicity for practical deployment. 
 
