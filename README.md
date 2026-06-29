@@ -5,7 +5,7 @@
 
 ## Published Submissions
 - [Thesis Report](Master's%20Thesis%20-%20Bhavay%20Singhal.pdf)
-- [Presentation - Overview]
+- [Presentation - Overview](Thesis%20Presentation%20-%20Project%20Overview.pptx)
 
 ## About
 
